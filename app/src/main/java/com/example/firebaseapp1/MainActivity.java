@@ -13,10 +13,7 @@ import com.google.firebase.firestore.FirebaseFirestore;
 
 import java.util.HashMap;
 
-/*
-*
-* Ian Wendel Flores
-* */
+
 public class MainActivity extends AppCompatActivity {
 
     private Button logout;

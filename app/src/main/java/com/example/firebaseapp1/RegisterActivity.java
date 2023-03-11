@@ -42,8 +42,6 @@ public class RegisterActivity extends AppCompatActivity {
                 String emailText = email.getText().toString();
                 String passwordText = password.getText().toString();
 
-
-
                 if(TextUtils.isEmpty(emailText )||TextUtils.isEmpty(passwordText)){
                     Toast.makeText(RegisterActivity.this, "Empty credentials!", Toast.LENGTH_SHORT).show();
                 }
@@ -55,7 +53,6 @@ public class RegisterActivity extends AppCompatActivity {
                 }
             }
         });
-
 
     }//
 

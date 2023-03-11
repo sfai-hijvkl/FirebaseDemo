@@ -7,6 +7,10 @@ import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
 
+/*
+ *
+ * Ian Wendel Flores
+ * */
 public class StartActivity extends AppCompatActivity {
 
     private Button register;
